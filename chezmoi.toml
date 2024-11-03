@@ -1,0 +1,4 @@
+encryption = "age"
+[age]
+    identity = "~/.age/chezmoi.txt"
+    symmetric = true
